@@ -17,4 +17,6 @@ p.meu_texto :hover{
 div :hover{
     color: blue;
 }
-
+.curriculo-container{
+    text-align: center;
+}
